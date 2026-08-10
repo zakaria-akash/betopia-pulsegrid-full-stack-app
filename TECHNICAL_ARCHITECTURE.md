@@ -1,6 +1,6 @@
 # Betopia PulseGrid - Technical Architecture
 
-> Developer-facing application map. [Return to the overview](../README.md).
+> Developer-facing application map. [Return to the overview](README.md).
 
 ## Architectural style
 

@@ -1,6 +1,6 @@
 # Betopia PulseGrid - Product Capabilities and User Workflows
 
-> Public technical-review document. [Return to the overview](../README.md).
+> Public technical-review document. [Return to the overview](README.md).
 
 ## Product position
 

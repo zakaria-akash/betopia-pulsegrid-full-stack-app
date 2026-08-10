@@ -1,6 +1,6 @@
 # Betopia PulseGrid - API, Data, and Integration Reference
 
-> Public engineering reference for the reviewed private API surface. [Return to the overview](../README.md).
+> Public engineering reference for the reviewed private API surface. [Return to the overview](README.md).
 
 ## API design
 

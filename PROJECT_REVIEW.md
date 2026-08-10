@@ -1,6 +1,6 @@
 # Betopia PulseGrid - Public Technical Project Review
 
-> A product and engineering assessment of the private implementation. [Return to the overview](../README.md).
+> A product and engineering assessment of the private implementation. [Return to the overview](README.md).
 
 ## Executive summary
 
