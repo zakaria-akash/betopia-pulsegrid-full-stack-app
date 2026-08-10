@@ -218,18 +218,18 @@ This technical review also identifies the work needed before making a production
 - Add role-based authorization, audit logs, monitoring, automated tests, backup/restore checks, and orphaned-media cleanup.
 - Expand dynamic metadata, structured data, caching policy, accessibility tests, and real-user performance measurement.
 
-See [Security, quality, and roadmap](docs/SECURITY_QUALITY_AND_ROADMAP.md) for the evidence-based review and prioritized recommendations.
+See [Security, quality, and roadmap](SECURITY_QUALITY_AND_ROADMAP.md) for the evidence-based review and prioritized recommendations.
 
 ## Documentation map
 
 | Document | Use it for |
 |---|---|
-| [Product capabilities and user workflows](docs/PRODUCT_CAPABILITIES.md) | Public, editor, contact, and chat journeys; delivered vs planned scope. |
-| [Technical architecture](docs/TECHNICAL_ARCHITECTURE.md) | App Router topology, rendering, modules, state, dependencies, and performance choices. |
-| [CMS and content engineering](docs/CMS_AND_CONTENT_ENGINEERING.md) | Section model, renderer contract, content operations, live updates, media pipeline. |
-| [API, data, and integrations](docs/API_DATA_AND_INTEGRATIONS.md) | Actual API surface, model operations, request flows, media, chat, and data ownership. |
-| [Security, quality, and roadmap](docs/SECURITY_QUALITY_AND_ROADMAP.md) | Security posture, test strategy, technical debt, SRS reconciliation, and phased upgrades. |
-| [Public project review](docs/PROJECT_REVIEW.md) | Executive-ready technical assessment, scope boundary, strengths, constraints, and potential. |
+| [Product capabilities and user workflows](PRODUCT_CAPABILITIES.md) | Public, editor, contact, and chat journeys; delivered vs planned scope. |
+| [Technical architecture](TECHNICAL_ARCHITECTURE.md) | App Router topology, rendering, modules, state, dependencies, and performance choices. |
+| [CMS and content engineering](CMS_AND_CONTENT_ENGINEERING.md) | Section model, renderer contract, content operations, live updates, media pipeline. |
+| [API, data, and integrations](API_DATA_AND_INTEGRATIONS.md) | Actual API surface, model operations, request flows, media, chat, and data ownership. |
+| [Security, quality, and roadmap](SECURITY_QUALITY_AND_ROADMAP.md) | Security posture, test strategy, technical debt, SRS reconciliation, and phased upgrades. |
+| [Public project review](PROJECT_REVIEW.md) | Executive-ready technical assessment, scope boundary, strengths, constraints, and potential. |
 
 ## Public review boundary
 

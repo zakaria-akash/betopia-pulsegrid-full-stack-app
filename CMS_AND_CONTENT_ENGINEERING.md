@@ -1,6 +1,6 @@
 # Betopia PulseGrid - CMS and Content Engineering
 
-> Developer-facing content-system reference. [Return to the overview](../README.md).
+> Developer-facing content-system reference. [Return to the overview](README.md).
 
 ## CMS design
 

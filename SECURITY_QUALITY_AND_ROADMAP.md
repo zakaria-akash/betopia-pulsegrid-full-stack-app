@@ -1,6 +1,6 @@
 # Betopia PulseGrid - Security, Quality, and Roadmap Review
 
-> Evidence-based technical review. [Return to the overview](../README.md).
+> Evidence-based technical review. [Return to the overview](README.md).
 
 ## Review stance
 
